@@ -1,1 +1,1 @@
-# smoothing_splines
+# Smoothing_splines
